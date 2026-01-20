@@ -110,4 +110,4 @@ Final accuracy values are computed as the average accuracy across all five sampl
 | KNN                 | 84.67     | 84.59     | 84.63     | 84.15     | 81.09     |
 | SVM                 | 67.99     | 68.03     | 67.99     | 67.73     |66.03     |
 
-## Result Graph
+
